@@ -1,1 +1,1 @@
-# Argusa-Challenge-2024
+# Argusa-Challenge-Engineering-and-Analytics-2024
